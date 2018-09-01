@@ -1,4 +1,5 @@
 Siber Saldırıların Sürdürülebilir Rekabet Üstündeki Etkileri (ITICU MBA Dissertation)
+============
 
 Bu çalışmada, öncelikle siber saldırılarla ilgili bir çerçeve oluşturulmuş ardından da sürdürülebilir rekabet üstünlüğü kavramı tarihsel bağlam içerisinde farklı yaklaşımlarla incelenmiştir. Ardından iki ana siber saldırı türü olan siber casusluk ve siber sabotajın sürdürülebilir rekabet üstünlüğü sağlamış firmalara ne şekilde zarar verebileceği tartışılmıştır. Son bölümde teorik altyapısı oluşturulan meselenin gerçek hayattaki iz düşümleri incelenmiştir.
 
